@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\SurveyDatabase.db
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\SurveyApp.exe.config
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\SurveyApp.exe
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\SurveyApp.pdb
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\Dapper.dll
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\System.Data.SQLite.dll
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\Dapper.xml
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\bin\Release\System.Data.SQLite.xml
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.Form1.resources
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.Properties.Resources.resources
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.csproj.CopyComplete
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.exe
+C:\Users\USER\Desktop\SurveyApp\SurveyApp\obj\Release\SurveyApp.pdb

@@ -1,0 +1,21 @@
+SurveyId: 1
+Survey Title: Survey System Test
+Survey Description: Testing the consumer survey system
+Survey Author: Xavier Brown
+
+SURVEY ANALYSIS DATA
+---------------------
+Below is the quantity of each answer choice
+
+Yes: 14
+No: 7
+
+Definitely not: 3
+Would consider it: 6
+Definitely: 10
+
+Strongly Disagree: 2
+Disagree: 4
+Neutral: 4
+Agree: 3
+Strongly Agree: 7
